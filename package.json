@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "auto-reload": "^0.1.0",
+    "hangul-js": "^0.2.6",
+    "pg": "^8.2.1",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node ./src/index.js"
+  }
+}

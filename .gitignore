@@ -1,0 +1,6 @@
+_DB_parse
+db 
+node_modules
+chromedriver.exe
+debug.log
+package-lock.json
